@@ -169,7 +169,6 @@ When you are done, your working directory should look something like this:
 │   │   ├── ERR2868173.log
 │   │   └── ERR2868174.log
 │   └── run_pipeline.out
-├── Log.out
 ├── out
 │   ├── cutadapt
 │   │   ├── ERR2868172_1.trimmed.fastq.gz
